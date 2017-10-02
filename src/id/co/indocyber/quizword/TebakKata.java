@@ -31,7 +31,7 @@ public class TebakKata extends javax.swing.JFrame {
           
     }
     
-    public int counter;
+    private int counter;
 
     /**
      * This method is called from within the constructor to initialize the form.

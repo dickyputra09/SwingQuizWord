@@ -6,11 +6,10 @@
 package id.co.indocyber.quizword;
 
 import id.co.indocyber.words.model.WordsModel;
-import java.util.Arrays;
 
 /**
  *
- * @author user
+ * @author dc
  */
 public class TebakKata extends javax.swing.JFrame {
 
@@ -31,6 +30,8 @@ public class TebakKata extends javax.swing.JFrame {
         SoalTxt.setEditable(false);
           
     }
+    
+    public int counter;
 
     /**
      * This method is called from within the constructor to initialize the form.
